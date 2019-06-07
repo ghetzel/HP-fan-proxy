@@ -1,6 +1,7 @@
 # SEE ALSO:
 - https://old.reddit.com/r/homelab/comments/6xfscd/making_the_dl380_g7_quiet_for_good/
-- https://raw.githubusercontent.com/ghetzel/HP-fan-proxy/master/images/making_the_dl380_g7_quiet_for_good.png
+
+![reddit](https://raw.githubusercontent.com/ghetzel/HP-fan-proxy/master/images/making_the_dl380_g7_quiet_for_good.png)
 
 # HP fan proxy
 The HPE iLO system tends to over-drive the fans in their servers. Especially when you have any card plugged in PCIe sockets. This project use an arduino to lower the PWM signal.
